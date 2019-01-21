@@ -31,7 +31,7 @@
     }
 
     function CWE_484() { // SWITCH_CASE_FALL_THROUGH
-        var x;
+        //var x;
         switch (x) {
         case '1': console.log('Do one thing');
         case '2': console.log('Do another thing');
